@@ -2,7 +2,7 @@ import streamlit as st
 # Hiển thị logo
 st.image("VanAnh.png", width=813)
 # Tiêu đề ứng dụng
-st.title("💰 Ứng dụng tính tiền gửi tiết kiệm_Trịnh Mai Vân Anh)
+st.title("💰 Ứng dụng tính tiền gửi tiết kiệm_Trịnh Mai Vân Anh")
 
 # Nhập dữ liệu
 C = st.number_input(
